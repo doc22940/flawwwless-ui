@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1241px" height="1240px" viewBox="0 0 1241 1240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>speaker</title>
-    <desc>Created with Sketch.</desc>
-    <g id="speaker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 0.000000)">
-        <g id="Group" transform="translate(315.000000, 251.000000)">
-            <rect id="Rectangle" stroke="#979797" stroke-width="50" x="25" y="25" width="561" height="688" rx="67"></rect>
-            <circle id="Oval" fill="#979797" cx="306" cy="150" r="40"></circle>
-            <circle id="Oval" stroke="#979797" stroke-width="50" cx="306" cy="463" r="150"></circle>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1241" height="1240" version="1.1" viewBox="0 0 1241 1240"><title>speaker</title><desc>Created with Sketch.</desc><g id="speaker" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1" transform="translate(0.000000, 0.000000)"><g id="Group" transform="translate(315.000000, 251.000000)"><rect id="Rectangle" width="561" height="688" x="25" y="25" stroke="#979797" stroke-width="50" rx="67"/><circle id="Oval" cx="306" cy="150" r="40" fill="#979797"/><circle id="Oval" cx="306" cy="463" r="150" stroke="#979797" stroke-width="50"/></g></g></svg>
