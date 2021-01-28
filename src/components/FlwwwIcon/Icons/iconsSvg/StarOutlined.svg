@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1240px" height="1240px" viewBox="0 0 1240 1240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="" id="Path-3" stroke="#979797"></path>
-        <polygon id="Star" stroke="#000000" stroke-width="70" stroke-linejoin="round" points="620 780 384.885899 943.606798 467.830957 669.442719 239.577393 496.393202 525.95436 490.557281 620 220 714.04564 490.557281 1000.42261 496.393202 772.169043 669.442719 855.114101 943.606798"></polygon>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="1240" version="1.1" viewBox="0 0 1240 1240"><title>Artboard</title><desc>Created with Sketch.</desc><g id="Artboard" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><path id="Path-3" stroke="#979797"/><polygon id="Star" stroke="#000" stroke-linejoin="round" stroke-width="70" points="620 780 384.886 943.607 467.831 669.443 239.577 496.393 525.954 490.557 620 220 714.046 490.557 1000.423 496.393 772.169 669.443 855.114 943.607"/></g></svg>

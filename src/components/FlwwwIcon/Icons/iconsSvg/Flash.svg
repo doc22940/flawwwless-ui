@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1240px" height="1240px" viewBox="0 0 1240 1240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" transform="translate(374.000000, 204.000000)" fill="#000000">
-            <polygon id="Triangle" points="328.756344 0.421765235 293 445 -5.68434189e-14 445"></polygon>
-            <polygon id="Triangle" transform="translate(328.378172, 610.289117) scale(-1, -1) translate(-328.378172, -610.289117) " points="492.756344 388 457 832.578235 164 832.578235"></polygon>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="1240" version="1.1" viewBox="0 0 1240 1240"><title>Artboard</title><desc>Created with Sketch.</desc><g id="Artboard" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Group" fill="#000" transform="translate(374.000000, 204.000000)"><polygon id="Triangle" points="328.756 .422 293 445 0 445"/><polygon id="Triangle" points="492.756 388 457 832.578 164 832.578" transform="translate(328.378172, 610.289117) scale(-1, -1) translate(-328.378172, -610.289117)"/></g></g></svg>
